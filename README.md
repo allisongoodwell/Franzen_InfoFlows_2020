@@ -1,6 +1,7 @@
 # Franzen_InfoFlows_2020
 python codes for Franzen, Farahani, Goodwell et al, WRR 2020 (in review)
 
+DOI for this repository: 10.5281/zenodo.3860555
 
 Main analysis codes:
 COHW_analysis_overall.py computes IT measures for multi-year time window between each precipitation grid cell and outlet flow rates, saves as excel file
