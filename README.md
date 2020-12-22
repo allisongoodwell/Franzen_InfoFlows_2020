@@ -1,5 +1,6 @@
 # Franzen_InfoFlows_2020
-python codes for Franzen, Farahani, Goodwell et al, WRR 2020 (in review)
+python codes for Franzen, Farahani, Goodwell et al, WRR 2020
+DOI: 10.1029/2019WR026133
 
 DOI for this repository: 10.5281/zenodo.3860555
 https://zenodo.org/badge/latestdoi/267372638
